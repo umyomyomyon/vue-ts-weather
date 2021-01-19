@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "@vue/composition-api": "^1.0.0-beta.26",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuetify": "^2.2.11",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "vuex-module-decorators": "^1.0.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.19",

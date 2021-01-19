@@ -97,6 +97,12 @@ export default defineComponent({
 })
 ```
 
+### PycharmにおけるESLint設定
+`command + ,`でpreferenceを開き、ESLintで検索  
+Manual ESLint configurationにチェック  
+ESLint Packageを`project_name/node_module/eslint`に設定  
+Configuration FileはAutomatic search  
+
 # ↓default README.md↓ 
 
 # vue_weather

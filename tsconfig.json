@@ -16,6 +16,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
     "types": [
       "webpack-env",
       "jest",
